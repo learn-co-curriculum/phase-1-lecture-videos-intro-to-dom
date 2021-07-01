@@ -6,3 +6,9 @@
 
 - [DOM Tree](https://javascript.info/dom-nodes)
 - [Eloquent JavaScript: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+- [MDN: NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
+- [MDN: HTMLCollection](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection)
+- [MDN: Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+- [MDN: Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+- [MDN: Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+
